@@ -7,4 +7,6 @@ This analysis was utilized to learn the Tableau software.  The NY Citibike bikes
 You can view Brett's analysis by clicking on this link to his [tableau public profile.](https://public.tableau.com/app/profile/brett.tescher/viz/CitibikeChallenge_16492105954960/Story1?publish=yes)
 
 ## Summary
-Trends established by the data is that males use the service more often and for longer durations than females.  Usage spikes in the mornings and at rush hour in the evenings.  And subscribers utilize the services much more frequently than non-subscribed customers.  Further analysis should be conducted to find the distances traveled and how seasonal weather affects utilization.  Thank you.  
+Trends established by the data is that males use the service more often and for longer durations than females.  Usage spikes in the mornings and at rush hour in the evenings.  And subscribers utilize the services much more frequently than non-subscribed customers.  At this time the results are inconclusive toward the prospects of franchising in Iowa.  Further analysis should be conducted to find the distances traveled and how seasonal weather affects utilization. 
+
+Thank you.  
