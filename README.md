@@ -3,6 +3,7 @@
 ## Overview
 This analysis was utilized to learn the Tableau software.  The NY Citibike bikesharing company was analyzed for potential franchising in Iowa.  For this challenge, ridership was analyzed by starting and ending locations, usage by time of day and usage by Gender.  Attached below is a link to the Tableau Story board that was compiled for this purpose.  
 
+##Results
 You can view Brett's analysis by clicking on this link to his [tableau public profile.](https://public.tableau.com/app/profile/brett.tescher/viz/CitibikeChallenge_16492105954960/Story1?publish=yes)
 
 ## Summary
